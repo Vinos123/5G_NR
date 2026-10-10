@@ -1,0 +1,138 @@
+Start testing: Oct 10 23:26 CST
+----------------------------------------------------------
+1/9 Testing: crc
+1/9 Test: crc
+Command: "/Users/Admin1/Desktop/5G_NR/code/build/test_crc"
+Directory: /Users/Admin1/Desktop/5G_NR/code/build
+"crc" start time: Oct 10 23:26 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Passed.
+"crc" end time: Oct 10 23:26 CST
+"crc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/9 Testing: gold
+2/9 Test: gold
+Command: "/Users/Admin1/Desktop/5G_NR/code/build/test_gold"
+Directory: /Users/Admin1/Desktop/5G_NR/code/build
+"gold" start time: Oct 10 23:26 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.38 sec
+----------------------------------------------------------
+Test Passed.
+"gold" end time: Oct 10 23:26 CST
+"gold" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/9 Testing: scrambler
+3/9 Test: scrambler
+Command: "/Users/Admin1/Desktop/5G_NR/code/build/test_scrambler"
+Directory: /Users/Admin1/Desktop/5G_NR/code/build
+"scrambler" start time: Oct 10 23:26 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"scrambler" end time: Oct 10 23:26 CST
+"scrambler" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/9 Testing: modulator
+4/9 Test: modulator
+Command: "/Users/Admin1/Desktop/5G_NR/code/build/test_modulator"
+Directory: /Users/Admin1/Desktop/5G_NR/code/build
+"modulator" start time: Oct 10 23:26 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"modulator" end time: Oct 10 23:26 CST
+"modulator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/9 Testing: layer_map
+5/9 Test: layer_map
+Command: "/Users/Admin1/Desktop/5G_NR/code/build/test_layer_map"
+Directory: /Users/Admin1/Desktop/5G_NR/code/build
+"layer_map" start time: Oct 10 23:26 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"layer_map" end time: Oct 10 23:26 CST
+"layer_map" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/9 Testing: transform_precoder
+6/9 Test: transform_precoder
+Command: "/Users/Admin1/Desktop/5G_NR/code/build/test_transform_precoder"
+Directory: /Users/Admin1/Desktop/5G_NR/code/build
+"transform_precoder" start time: Oct 10 23:26 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"transform_precoder" end time: Oct 10 23:26 CST
+"transform_precoder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/9 Testing: ldpc
+7/9 Test: ldpc
+Command: "/Users/Admin1/Desktop/5G_NR/code/build/test_ldpc"
+Directory: /Users/Admin1/Desktop/5G_NR/code/build
+"ldpc" start time: Oct 10 23:26 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.31 sec
+----------------------------------------------------------
+Test Passed.
+"ldpc" end time: Oct 10 23:26 CST
+"ldpc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/9 Testing: rate_match
+8/9 Test: rate_match
+Command: "/Users/Admin1/Desktop/5G_NR/code/build/test_rate_match"
+Directory: /Users/Admin1/Desktop/5G_NR/code/build
+"rate_match" start time: Oct 10 23:26 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"rate_match" end time: Oct 10 23:26 CST
+"rate_match" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/9 Testing: segmentation
+9/9 Test: segmentation
+Command: "/Users/Admin1/Desktop/5G_NR/code/build/test_segmentation"
+Directory: /Users/Admin1/Desktop/5G_NR/code/build
+"segmentation" start time: Oct 10 23:26 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"segmentation" end time: Oct 10 23:26 CST
+"segmentation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 10 23:26 CST

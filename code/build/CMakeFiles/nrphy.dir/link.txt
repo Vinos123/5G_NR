@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnrphy.a CMakeFiles/nrphy.dir/src/crc.cpp.o CMakeFiles/nrphy.dir/src/gold.cpp.o CMakeFiles/nrphy.dir/src/scrambler.cpp.o CMakeFiles/nrphy.dir/src/modulator.cpp.o CMakeFiles/nrphy.dir/src/layer_map.cpp.o CMakeFiles/nrphy.dir/src/transform_precoder.cpp.o CMakeFiles/nrphy.dir/src/ldpc.cpp.o CMakeFiles/nrphy.dir/src/rate_match.cpp.o CMakeFiles/nrphy.dir/src/segmentation.cpp.o CMakeFiles/nrphy.dir/src/precode.cpp.o CMakeFiles/nrphy.dir/src/re_map.cpp.o CMakeFiles/nrphy.dir/src/pusch.cpp.o
+/usr/bin/ranlib libnrphy.a

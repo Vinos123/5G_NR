@@ -1,0 +1,10 @@
+crc 1 0.366306
+gold 1 0.377457
+scrambler 1 0.288213
+modulator 1 0.296998
+layer_map 1 0.284793
+transform_precoder 1 0.296636
+ldpc 1 0.306294
+rate_match 1 0.287784
+segmentation 1 0.286877
+---

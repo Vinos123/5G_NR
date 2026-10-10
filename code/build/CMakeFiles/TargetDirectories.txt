@@ -1,0 +1,17 @@
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/nrphy.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/pusch_tx_demo.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/scrambler_bench.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/modulator_bench.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/crc_bench.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/test_crc.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/test_gold.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/test_scrambler.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/test_modulator.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/test_layer_map.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/test_transform_precoder.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/test_ldpc.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/test_rate_match.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/test_segmentation.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/test.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/edit_cache.dir
+/Users/Admin1/Desktop/5G_NR/code/build/CMakeFiles/rebuild_cache.dir
